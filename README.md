@@ -1,4 +1,5 @@
 # HACK-CAMERA
+#FOLLOW REDAME OR INSATLL THE ZIP FILE IN "camhacks.zip"#
 
 
 
